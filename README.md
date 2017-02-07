@@ -6,7 +6,7 @@ In this package you will find two shader solutions for non terrain leaves and gr
 the built-in tree soft occlusion leaves for imported trees that do not support specular, normal maps and the moviment for some
 types of vegetations are completely unrealistic. With this solution based in the Standard Surface Shader, you can implement your 
 texture with an workflow similar to the unity standard shader, controling metallic and smoothness values of the material to
-create, for example, a wetness effect in the leaves and this will be affected by unity gi.
+create, for example, a wetness effect in the leaves and this will be affected by unity gi. The moving part of the shader was taken from [here](https://forum.unity3d.com/threads/shader-moving-trees-grass-in-wind-outside-of-terrain.230911/). Thanks, GambinoInd.
 
 ![enhanced foliage for unity 5](https://github.com/lukasRodrigues/unity-enhanced-foliage/blob/master/efsetup.jpg?raw=true)
 _Obs: Grass shader is a simplified version without the gi thing, you can use the same shader for leaves and grass._
