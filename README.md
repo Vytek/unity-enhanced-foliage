@@ -1,5 +1,7 @@
 # unity-enhanced-foliage
 
+![enhanced foliage for unity](https://github.com/lukasRodrigues/unity-enhanced-foliage/blob/master/unity_enhanced_foliage_free_shader.png?raw=true)
+
 In this package you will find two shader solutions for non terrain leaves and grass moviment. These shaders are also better than
 the built-in tree soft occlusion leaves for imported trees that do not support specular, normal maps and the moviment for some
 types of vegetations are completely unrealistic. With this solution based in the Standard Surface Shader, you can implement your 
