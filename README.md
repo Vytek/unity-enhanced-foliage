@@ -17,7 +17,6 @@ how scripts work.
 **You are free to do whatever you want _except sell it_.**
 
 ![enhanced foliage for unity 5](https://github.com/lukasRodrigues/unity-enhanced-foliage/blob/master/efsetup.jpg?raw=true)
-_Obs: Grass shader is a simplified version without the gi thing, you can use the same shader for leaves and grass._
 
 ![enhanced foliage for unity 5](https://github.com/lukasRodrigues/unity-enhanced-foliage/blob/master/unity_enhanced_foliage_free_shader.png?raw=true)
 
