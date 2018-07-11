@@ -20,7 +20,3 @@ how scripts work.
 
 ![unity 5 transparent leaves with global fog](https://github.com/lukasRodrigues/unity-enhanced-foliage/blob/master/enhanced_foliage_2.png?raw=true)
 _With some post process like global fog and antialiasing._
-
-## Donate:
-
-BTC: 13wiPRAEE5yS7pPKbPR5GwnuFse1D6sZEj 
